@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafeeq8904&label=Profile%20views&color=0e75b6&style=flat" alt="shafeeq8904" /> </p>
 
-- 🔭 I’m currently working on **Bus Booking Application**
+- 🔭 I’m currently working on **Amazon clone**
 
-- 🌱 I’m currently learning **React js,Tailwind css,Node js**
+- 🌱 I’m currently learning **React js,Tailwind css**
 
 - 👨‍💻 My Portfolio Website [https://shafeeq8904.github.io/portfolio-shafeeq/](https://shafeeq8904.github.io/portfolio-shafeeq/)
 
