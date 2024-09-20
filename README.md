@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Amazon clone**
+- 🔭 I’m currently working on **Booking clone**
 
 - 🌱 I’m currently learning **React js,Tailwind css**
 
