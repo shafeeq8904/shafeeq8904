@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Shafeeq Ahmed S</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<br>
+<h3 align="center">A passionate Web Developer</h3>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="400">
+<br><br>
 
 - 🔭 I’m currently working on **Booking clone**
 
-- 🌱 I’m currently learning **React js,Tailwind css**
+- 🌱 I’m currently learning **Reactjs,DevOps,AWS.**
 
-- 👨‍💻 My Portfolio Website [https://shafeeq8904.github.io/portfolio-shafeeq/](https://shafeeq8904.github.io/portfolio-shafeeq/)
+- 👨‍💻 My Portfolio Website [https://shafeeq-portfolio.vercel.app/](https://shafeeq-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
